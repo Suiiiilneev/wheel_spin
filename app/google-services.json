@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658004465123",
+    "project_id": "broslotsonline",
+    "storage_bucket": "broslotsonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658004465123:android:25614fa4f6a484858c7cd6",
+        "android_client_info": {
+          "package_name": "com.webview.wheel_spin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658004465123-21ns3ca23rca7afca9j6mcvu57k2ie37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbnEz5YwRQAIe8ihR_KTPb6GNpPpi0YJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658004465123-21ns3ca23rca7afca9j6mcvu57k2ie37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
